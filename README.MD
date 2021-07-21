@@ -6,3 +6,6 @@ Il y a eu quelque contraintes techniques qui sont :
 -Le jeu sera modulables et donc on doit pouvoir lui passer certaines options comme :
   Le nombre de cases que comportera la grille (en X et en Y)
   Les couleurs des joueurs
+
+
+Nous pouvons améliorer la charte graphique, le rendre plus ludique, plus attractif..
